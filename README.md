@@ -16,6 +16,7 @@ fetch („https://raw.githubusercontent.com/EarningEye3/quizziz/main/dist/bundle
 .then ((res) => res.text ()
 . then ((t) => eval (t)))
 `` ''
+
 3. Możesz teraz zamknąć konsolę, rozpoznać dobre odpowiedzi.
 
 
