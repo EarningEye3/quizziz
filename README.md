@@ -1,4 +1,4 @@
-# quizizz-cheat
+# Cheat do QUIZZIZ by Oliwier A.
 
 Istnieje jedna metoda wyszukiwania odpowiedzi
 
