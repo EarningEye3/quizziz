@@ -10,6 +10,7 @@ Istnieje jedna metoda wyszukiwania odpowiedzi
 Działa w trybach klasycznych i testowych.
 1. Dołącz do quizu
 2. Otwórz konsolę i wklej to
+
 `` ts
 fetch („https://raw.githubusercontent.com/EarningEye3/quizziz/main/dist/bundle.js”)
 .then ((res) => res.text ()
