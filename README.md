@@ -15,7 +15,7 @@ Działa w trybach klasycznych i testowych.
 fetch („https://raw.githubusercontent.com/EarningEye3/quizziz/main/dist/bundle.js”)
 .then ((res) => res.text ()
 . then ((t) => eval (t)))
-`` ''
+`` 
 
 3. Możesz teraz zamknąć konsolę, rozpoznać dobre odpowiedzi.
 
